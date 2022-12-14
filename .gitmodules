@@ -1,0 +1,9 @@
+[submodule "tpcc-mysql"]
+	path = tpcc-mysql
+	url = https://github.com/Percona-Lab/tpcc-mysql
+[submodule "mysql-proxy"]
+	path = mysql-proxy
+	url = https://github.com/mysql/mysql-proxy
+[submodule "wiredtiger"]
+	path = wiredtiger
+	url = https://github.com/wiredtiger/wiredtiger
